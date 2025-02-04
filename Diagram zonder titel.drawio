@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
+  <diagram name="Pagina-1" id="bsVXHMCfo4JQ4riB_1a2">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Revenue Streams" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="8" width="154" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Cost Structure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="8" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Channels" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="397" y="8" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Key Resources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="543" y="8" width="133" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Customer Segments" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="726" y="8" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Customer Relationships" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="949" y="8" width="199" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Value Propositions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1197" y="8" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Key Activities" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1409" y="8" width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Key Partners" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1587" y="8" width="121" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
